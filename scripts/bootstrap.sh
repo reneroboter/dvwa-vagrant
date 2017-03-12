@@ -63,7 +63,7 @@ sudo apt-get install -y git
 
 # install dvwa
 cd /var/www/docroot
-#git clone https://github.com/ethicalhack3r/DVWA.git .
+git clone https://github.com/ethicalhack3r/DVWA.git .
 
 # recaptcha
 sudo sed -i -- "s/''/'6LdK7xITAAzzAAJQTfL7fu6I-0aPl8KHHieAT_yJg'/g" /var/www/docroot/config/config.inc.php
