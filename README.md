@@ -14,3 +14,6 @@ vagrant
 git clone https://github.com/renerboter/dvwa-vagrant.git
 vagrant up
 ```
+## Usage
+
+IP: 10.10.10.10
