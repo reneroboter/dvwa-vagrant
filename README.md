@@ -1,5 +1,5 @@
-# Simple DVWA Vagrant box
-This vagrant box provide a out-of-box DVWA machine.
+# Simple DVWA vagrant box
+This vagrant box provide a out-of-box DVWA virtual machine.
 Follow the instruction for installation.
 
 For further information visit the website of DVWA.
